@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cameleon2",
+    "slug": "cameleon2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
